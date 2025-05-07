@@ -13,4 +13,4 @@ val readOnlyFiguras = listOf("cuadrado","triangulo","circulo")
 
 var mutableFiguras = mutableListOf("cuadrado","triangulo","circulo")
 
-val coches= mapOf("Uno" to 1)
+val coches= mapOf("Uno" to 2)
